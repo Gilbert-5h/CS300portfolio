@@ -89,3 +89,33 @@ Usage:
 Choose the pseudocode that aligns with your preferred data structure.
 Implement the provided pseudocode in your C++ program.
 Follow the suggested runtime analysis and consider the advantages and disadvantages for informed decision-making.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Project Reflection - Advising Assistance Program**
+
+Problem Statement:
+
+The project aimed to create a practical Advising Assistance Program for ABCU's Computer Science department, addressing the challenge of managing course information effectively.
+
+Approach:
+
+I took a step-by-step approach, figuring out the best data structures, implementing pseudocode, and emphasizing the importance of making wise choices in data structure selection.
+
+Why Data Structures Matter:
+
+Understanding data structures became pivotal for writing efficient code, impacting performance, and making the code more understandable and maintainable.
+
+Overcoming Challenges:
+
+Running into challenges during algorithm design prompted me to revisit the basics, conduct iterative testing, and seek guidance from documentation.
+
+Design Approach Evolution:
+
+The project made me rethink how I design software, pushing me to plan systematically and pay more attention to choosing the right data structures for the job.
+
+Writing User-Friendly Code:
+
+Focusing on making the code readable with meaningful names, pseudocode, and effective error handling contributed to a more approachable and user-friendly codebase.
+
+In summary, this project was a learning journey that sharpened my problem-solving skills, emphasizing practical and effective approaches to designing software.
